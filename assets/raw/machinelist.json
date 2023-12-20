@@ -1,0 +1,86 @@
+{
+        "assetListForChecklist": [
+     {
+      "acrp_inspection_to_time": "2023-09-01 16:00:00.0",
+      "asset_bar_code": "1234",
+      "asset_name": "machine- 1",
+      "acrp_inspection_from_time": "2023-09-01 10:00:00.0",
+      "asset_type": 53,
+      "inspection_date": "2023-09-01 10:00:00.0",
+      "asset_type_name": "AIMM & CRB",
+      "loc_name": "plant 1",
+      "asset_id": 1,
+      "plan_id": 1,
+      "asset_loc_id": 1,
+      "inspection_status": 1
+      
+     },
+     {
+        "acrp_inspection_to_time": "2023-09-02 16:00:00.0",
+        "asset_bar_code": "123456",
+        "asset_name": "machine- 2",
+        "acrp_inspection_from_time": "2023-09-02 10:00:00.0",
+        "asset_type": 54,
+        "inspection_date": "2023-09-02 10:00:00.0",
+        "asset_type_name": "AIMM-02",
+        "loc_name": "Plant 2",
+        "asset_id": 2,
+        "plan_id": 2,
+        "asset_loc_id": 2,
+        "inspection_status": 1
+       }, {
+         "acrp_inspection_to_time": "2023-09-02 16:00:00.0",
+         "asset_bar_code": "123456",
+         "asset_name": "machine- 3",
+         "acrp_inspection_from_time": "2023-09-02 10:00:00.0",
+         "asset_type": 54,
+         "inspection_date": "2023-09-02 10:00:00.0",
+         "asset_type_name": "AIMM-02",
+         "loc_name": "Plant 3",
+         "asset_id": 3,
+         "plan_id": 2,
+         "asset_loc_id": 2,
+         "inspection_status": 1
+        }, {
+         "acrp_inspection_to_time": "2023-09-02 16:00:00.0",
+         "asset_bar_code": "12346",
+         "asset_name": "machine- 4",
+         "acrp_inspection_from_time": "2023-09-02 10:00:00.0",
+         "asset_type": 54,
+         "inspection_date": "2023-09-02 10:00:00.0",
+         "asset_type_name": "AIMM-02",
+         "loc_name": "Plant 4",
+         "asset_id": 4,
+         "plan_id": 2,
+         "asset_loc_id": 2,
+         "inspection_status": 1
+        }, {
+         "acrp_inspection_to_time": "2023-09-02 16:00:00.0",
+         "asset_bar_code": "12456",
+         "asset_name": "machine- 5",
+         "acrp_inspection_from_time": "2023-09-02 10:00:00.0",
+         "asset_type": 54,
+         "inspection_date": "2023-09-02 10:00:00.0",
+         "asset_type_name": "AIMM-02",
+         "loc_name": "Plant 5",
+         "asset_id": 5,
+         "plan_id": 2,
+         "asset_loc_id": 2,
+         "inspection_status": 1
+        }, {
+         "acrp_inspection_to_time": "2023-09-02 16:00:00.0",
+         "asset_bar_code": "123456",
+         "asset_name": "machine- 6",
+         "acrp_inspection_from_time": "2023-09-02 10:00:00.0",
+         "asset_type": 54,
+         "inspection_date": "2023-09-02 10:00:00.0",
+         "asset_type_name": "AIMM-02",
+         "loc_name": "Plant 6",
+         "asset_id": 6,
+         "plan_id": 2,
+         "asset_loc_id": 2,
+         "inspection_status": 1
+        }
+    ]
+   
+   }
